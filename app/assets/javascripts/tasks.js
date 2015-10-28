@@ -7,8 +7,12 @@ function ready() {
 
 
 
-function newTask() {
-  window.location.reload();
-  console.log(arguments);
-  }
+// function newTask() {
+//   window.location.reload();
+//   console.log(arguments);
+//   }
 }
+
+function newTask(event, data) {
+  $('body').append(data);
+  }
