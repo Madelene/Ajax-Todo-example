@@ -17,5 +17,6 @@ function newTask(event, data) {
   // $('body').append(data);
 $('#tasks').append(data);
 $('#task_name').val(' ');
+$(document).on("ready page:load", ready);
   }
 
