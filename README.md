@@ -1,7 +1,7 @@
 Wyncode: Week 6 homework
 ========================
 
-I followed this tutorial and Ajaxified a Rails app!
+I followed this tutorial by Sean Sellek and Ajaxified a Rails app!
 =====================================================
 
 Let's start by creating our rails app:
